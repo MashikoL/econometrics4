@@ -1,0 +1,15 @@
+state,year,any_mental_illness,serious_mental_illness,major_depressive_episode
+Nevada,2013,18.33,4.3,6.26
+Nevada,2014,17.91,4.41,6.93
+Nevada,2015,18.33,4.21,7.35
+Nevada,2016,18.87,4.28,6.74
+Nevada,2017,20.67,4.76,7.05
+Nevada,2018,21.97,5.63,8.22
+Nevada,2021,24.65,6.77,9.95
+Idaho,2013,20.81,5.03,7.32
+Idaho,2014,20.41,4.57,7.14
+Idaho,2015,21.62,4.98,7.62
+Idaho,2016,25.03,5.81,8.32
+Idaho,2017,24.46,5.61,8.43
+Idaho,2018,22.48,5.28,8.25
+Idaho,2021,28.02,6.64,10.38
